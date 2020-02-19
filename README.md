@@ -37,7 +37,10 @@ or post on issue trackers list above.
 
 ## To Build new version tools
 https://travis-ci.org/pxb1988/dex2jar/jobs/620929585
-git clone https://github.com/pxb1988/dex2jar.git
-cd pxb1988/dex2jar
-./gradlew assemble
+
+1.git clone https://github.com/pxb1988/dex2jar.git
+
+2.cd pxb1988/dex2jar
+
+3. ./gradlew assemble
 
