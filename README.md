@@ -44,3 +44,5 @@ https://travis-ci.org/pxb1988/dex2jar/jobs/620929585
 
 3. ./gradlew assemble
 
+4. file in /dex-tools/build/distributions
+
