@@ -34,3 +34,10 @@ or post on issue trackers list above.
 ## License
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
+
+## To Build new version tools
+https://travis-ci.org/pxb1988/dex2jar/jobs/620929585
+git clone https://github.com/pxb1988/dex2jar.git
+cd pxb1988/dex2jar
+./gradlew assemble
+
