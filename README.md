@@ -38,12 +38,11 @@ or post on issue trackers list above.
 ## To Build new version tools  By gyy
 https://travis-ci.org/pxb1988/dex2jar/jobs/620929585
 
-<font color=#0099ff size=7 face="黑体">
 1. git clone https://github.com/pxb1988/dex2jar.git
 
 2. cd pxb1988/dex2jar
 
 3. ./gradlew assemble
 
-4. file in /dex-tools/build/distributions</font>
+4. file in /dex-tools/build/distributions
 
